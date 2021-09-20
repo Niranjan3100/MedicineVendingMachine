@@ -13,7 +13,7 @@ public class DBConnection {
     static String driverClass="com.mysql.cj.jdbc.Driver";
     static String url="jdbc:mysql://localhost/medicine";
     static String username="root";
-    static String password="param";
+    static String password="niru";
 
 
     public static Connection getConnection(){

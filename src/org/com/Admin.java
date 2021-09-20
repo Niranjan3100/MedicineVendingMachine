@@ -105,6 +105,7 @@ public class Admin {
                 System.out.println("Wrong input! Please try again");
             }
         }
+        System.out.println("\nClosing Vending Machine. Bye.");
         DBConnection.closeConnection();
     }
 }
